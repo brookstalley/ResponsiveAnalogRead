@@ -1,3 +1,5 @@
+(Directory structure updated for Particle devices; no other changes)
+
 # ResponsiveAnalogRead
 ![ResponsiveAnalogRead](http://damienclarke.me/content/2-code/2-responsive-analog-read/thumbnail.jpg)
 
